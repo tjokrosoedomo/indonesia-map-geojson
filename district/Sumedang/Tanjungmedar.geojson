@@ -1,0 +1,102 @@
+{
+  "type": "Feature",
+  "metadata": {
+    "generator": {
+      "name": "Peta Nusa",
+      "url": "https://petanusa.web.id",
+      "version": "1.0"
+    },
+    "query": {
+      "region": "Tanjungmedar",
+      "region_code": "32.11.21",
+      "level": "district",
+      "boundary_level": "self"
+    },
+    "result": {
+      "total_features": 1,
+      "generated_at": "2026-02-13T09:58:05.443Z"
+    },
+    "source": {
+      "name": "Laravel Nusa",
+      "url": "https://nusa.creasi.dev",
+      "github": "https://github.com/creasico/laravel-nusa",
+      "data_reference": "Kepmendagri No 300.2.2-2138 Tahun 2025"
+    },
+    "copyright": {
+      "text": "© Creasi.co - Laravel Nusa",
+      "license": "MIT",
+      "license_url": "https://github.com/creasico/laravel-nusa/blob/main/LICENSE"
+    }
+  },
+  "properties": {
+    "code": "32.11.21",
+    "name": "Tanjungmedar",
+    "level": "district",
+    "latitude": -6.7330193362416,
+    "longitude": 107.86068042545,
+    "parent_code": "32.11"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          107.8409400250622,
+          -6.671513347363032
+        ],
+        [
+          107.90716642069384,
+          -6.708530450919511
+        ],
+        [
+          107.88796298300531,
+          -6.738902496253161
+        ],
+        [
+          107.89393086162005,
+          -6.755325074592463
+        ],
+        [
+          107.8665774896595,
+          -6.753438199813047
+        ],
+        [
+          107.87618480858214,
+          -6.7909470436710535
+        ],
+        [
+          107.85933977461099,
+          -6.786006438146558
+        ],
+        [
+          107.81707260701523,
+          -6.7976287231869605
+        ],
+        [
+          107.8366623332002,
+          -6.776748281907658
+        ],
+        [
+          107.84002841827692,
+          -6.760347396115378
+        ],
+        [
+          107.83253414373581,
+          -6.7166006989630205
+        ],
+        [
+          107.83902089339955,
+          -6.697649631725085
+        ],
+        [
+          107.82764480766178,
+          -6.688031654037559
+        ],
+        [
+          107.8409400250622,
+          -6.671513347363032
+        ]
+      ]
+    ]
+  }
+}
