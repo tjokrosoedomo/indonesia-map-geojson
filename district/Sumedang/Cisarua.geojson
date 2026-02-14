@@ -1,0 +1,78 @@
+{
+  "type": "Feature",
+  "metadata": {
+    "generator": {
+      "name": "Peta Nusa",
+      "url": "https://petanusa.web.id",
+      "version": "1.0"
+    },
+    "query": {
+      "region": "Cisarua",
+      "region_code": "32.11.23",
+      "level": "district",
+      "boundary_level": "self"
+    },
+    "result": {
+      "total_features": 1,
+      "generated_at": "2026-02-13T09:54:41.901Z"
+    },
+    "source": {
+      "name": "Laravel Nusa",
+      "url": "https://nusa.creasi.dev",
+      "github": "https://github.com/creasico/laravel-nusa",
+      "data_reference": "Kepmendagri No 300.2.2-2138 Tahun 2025"
+    },
+    "copyright": {
+      "text": "© Creasi.co - Laravel Nusa",
+      "license": "MIT",
+      "license_url": "https://github.com/creasico/laravel-nusa/blob/main/LICENSE"
+    }
+  },
+  "properties": {
+    "code": "32.11.23",
+    "name": "Cisarua",
+    "level": "district",
+    "latitude": -6.8323484828071,
+    "longitude": 107.96837628118,
+    "parent_code": "32.11"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          107.98555345622708,
+          -6.815512605422327
+        ],
+        [
+          107.99895906900588,
+          -6.824458939728231
+        ],
+        [
+          107.9823736702088,
+          -6.844632510282054
+        ],
+        [
+          107.95445829481451,
+          -6.849634185169464
+        ],
+        [
+          107.94075823860192,
+          -6.839324639620372
+        ],
+        [
+          107.94161578803823,
+          -6.828095670378843
+        ],
+        [
+          107.95241579865024,
+          -6.822059708588654
+        ],
+        [
+          107.98555345622708,
+          -6.815512605422327
+        ]
+      ]
+    ]
+  }
+}
