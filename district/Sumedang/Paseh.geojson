@@ -1,0 +1,90 @@
+{
+  "type": "Feature",
+  "metadata": {
+    "generator": {
+      "name": "Peta Nusa",
+      "url": "https://petanusa.web.id",
+      "version": "1.0"
+    },
+    "query": {
+      "region": "Paseh",
+      "region_code": "32.11.08",
+      "level": "district",
+      "boundary_level": "self"
+    },
+    "result": {
+      "total_features": 1,
+      "generated_at": "2026-02-13T09:55:56.325Z"
+    },
+    "source": {
+      "name": "Laravel Nusa",
+      "url": "https://nusa.creasi.dev",
+      "github": "https://github.com/creasico/laravel-nusa",
+      "data_reference": "Kepmendagri No 300.2.2-2138 Tahun 2025"
+    },
+    "copyright": {
+      "text": "© Creasi.co - Laravel Nusa",
+      "license": "MIT",
+      "license_url": "https://github.com/creasico/laravel-nusa/blob/main/LICENSE"
+    }
+  },
+  "properties": {
+    "code": "32.11.08",
+    "name": "Paseh",
+    "level": "district",
+    "latitude": -6.7968154757647,
+    "longitude": 108.0128242896,
+    "parent_code": "32.11"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          108.04883619993075,
+          -6.769527817654591
+        ],
+        [
+          108.05639026589813,
+          -6.794462807412572
+        ],
+        [
+          108.01730701760482,
+          -6.816225893709998
+        ],
+        [
+          108.01727405565322,
+          -6.828698600160237
+        ],
+        [
+          108.00670159959918,
+          -6.830127997908733
+        ],
+        [
+          107.97996060120084,
+          -6.808769667685965
+        ],
+        [
+          107.97257699992866,
+          -6.780434002227366
+        ],
+        [
+          107.99914342013278,
+          -6.784193425586068
+        ],
+        [
+          108.00093649922013,
+          -6.7733651483828226
+        ],
+        [
+          108.02388295573388,
+          -6.777492208298725
+        ],
+        [
+          108.04883619993075,
+          -6.769527817654591
+        ]
+      ]
+    ]
+  }
+}
