@@ -1,0 +1,90 @@
+{
+  "type": "Feature",
+  "metadata": {
+    "generator": {
+      "name": "Peta Nusa",
+      "url": "https://petanusa.web.id",
+      "version": "1.0"
+    },
+    "query": {
+      "region": "Tanjungkerta",
+      "region_code": "32.11.20",
+      "level": "district",
+      "boundary_level": "self"
+    },
+    "result": {
+      "total_features": 1,
+      "generated_at": "2026-02-13T09:57:47.469Z"
+    },
+    "source": {
+      "name": "Laravel Nusa",
+      "url": "https://nusa.creasi.dev",
+      "github": "https://github.com/creasico/laravel-nusa",
+      "data_reference": "Kepmendagri No 300.2.2-2138 Tahun 2025"
+    },
+    "copyright": {
+      "text": "© Creasi.co - Laravel Nusa",
+      "license": "MIT",
+      "license_url": "https://github.com/creasico/laravel-nusa/blob/main/LICENSE"
+    }
+  },
+  "properties": {
+    "code": "32.11.20",
+    "name": "Tanjungkerta",
+    "level": "district",
+    "latitude": -6.7623381671135,
+    "longitude": 107.90175153847,
+    "parent_code": "32.11"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          107.9049094452148,
+          -6.713094809777601
+        ],
+        [
+          107.91409880511583,
+          -6.721346588674066
+        ],
+        [
+          107.92569190265925,
+          -6.71583673567676
+        ],
+        [
+          107.93856876623562,
+          -6.759533700319992
+        ],
+        [
+          107.91379216957301,
+          -6.766421785037323
+        ],
+        [
+          107.90418916469827,
+          -6.817735939062288
+        ],
+        [
+          107.87972302209982,
+          -6.808324859404706
+        ],
+        [
+          107.8664638917952,
+          -6.7538638111659
+        ],
+        [
+          107.89393086162005,
+          -6.755325074592463
+        ],
+        [
+          107.88796298300531,
+          -6.738902496253161
+        ],
+        [
+          107.9049094452148,
+          -6.713094809777601
+        ]
+      ]
+    ]
+  }
+}
