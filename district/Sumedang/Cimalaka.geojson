@@ -1,0 +1,86 @@
+{
+  "type": "Feature",
+  "metadata": {
+    "generator": {
+      "name": "Peta Nusa",
+      "url": "https://petanusa.web.id",
+      "version": "1.0"
+    },
+    "query": {
+      "region": "Cimalaka",
+      "region_code": "32.11.22",
+      "level": "district",
+      "boundary_level": "self"
+    },
+    "result": {
+      "total_features": 1,
+      "generated_at": "2026-02-13T09:54:25.389Z"
+    },
+    "source": {
+      "name": "Laravel Nusa",
+      "url": "https://nusa.creasi.dev",
+      "github": "https://github.com/creasico/laravel-nusa",
+      "data_reference": "Kepmendagri No 300.2.2-2138 Tahun 2025"
+    },
+    "copyright": {
+      "text": "© Creasi.co - Laravel Nusa",
+      "license": "MIT",
+      "license_url": "https://github.com/creasico/laravel-nusa/blob/main/LICENSE"
+    }
+  },
+  "properties": {
+    "code": "32.11.22",
+    "name": "Cimalaka",
+    "level": "district",
+    "latitude": -6.7928500386552,
+    "longitude": 107.94402263163,
+    "parent_code": "32.11"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          107.93177300142293,
+          -6.75852200078964
+        ],
+        [
+          107.97203400006913,
+          -6.771008000119082
+        ],
+        [
+          107.9855594574031,
+          -6.819698148250893
+        ],
+        [
+          107.95241579865024,
+          -6.822059708588654
+        ],
+        [
+          107.93874504324918,
+          -6.83940437711027
+        ],
+        [
+          107.93597189019061,
+          -6.810440701577079
+        ],
+        [
+          107.92826724263921,
+          -6.8158598039867115
+        ],
+        [
+          107.9046337022836,
+          -6.806316660685297
+        ],
+        [
+          107.91379216957301,
+          -6.766421785037323
+        ],
+        [
+          107.93177300142293,
+          -6.75852200078964
+        ]
+      ]
+    ]
+  }
+}
