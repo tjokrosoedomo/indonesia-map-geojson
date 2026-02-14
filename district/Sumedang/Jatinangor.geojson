@@ -1,0 +1,82 @@
+{
+  "type": "Feature",
+  "metadata": {
+    "generator": {
+      "name": "Peta Nusa",
+      "url": "https://petanusa.web.id",
+      "version": "1.0"
+    },
+    "query": {
+      "region": "Jatinangor",
+      "region_code": "32.11.15",
+      "level": "district",
+      "boundary_level": "self"
+    },
+    "result": {
+      "total_features": 1,
+      "generated_at": "2026-02-13T09:55:23.518Z"
+    },
+    "source": {
+      "name": "Laravel Nusa",
+      "url": "https://nusa.creasi.dev",
+      "github": "https://github.com/creasico/laravel-nusa",
+      "data_reference": "Kepmendagri No 300.2.2-2138 Tahun 2025"
+    },
+    "copyright": {
+      "text": "© Creasi.co - Laravel Nusa",
+      "license": "MIT",
+      "license_url": "https://github.com/creasico/laravel-nusa/blob/main/LICENSE"
+    }
+  },
+  "properties": {
+    "code": "32.11.15",
+    "name": "Jatinangor",
+    "level": "district",
+    "latitude": -6.9313838264905,
+    "longitude": 107.77697413293,
+    "parent_code": "32.11"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          107.77822440013603,
+          -6.895572896172155
+        ],
+        [
+          107.78741352441466,
+          -6.896847064640269
+        ],
+        [
+          107.78566790884696,
+          -6.92166380883765
+        ],
+        [
+          107.79791166679007,
+          -6.923363333251189
+        ],
+        [
+          107.80312799905795,
+          -6.934301000390803
+        ],
+        [
+          107.79668785136329,
+          -6.96039206684037
+        ],
+        [
+          107.75266625394454,
+          -6.954550012373147
+        ],
+        [
+          107.76453873577412,
+          -6.895416939340237
+        ],
+        [
+          107.77822440013603,
+          -6.895572896172155
+        ]
+      ]
+    ]
+  }
+}
